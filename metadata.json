@@ -1,0 +1,6 @@
+{
+  "name": "Portal Notícias Bolívar & Cartagena",
+  "description": "Portal de notícias moderno, ágil e independente cobrindo Cartagena, Bolívar, Colômbia e o mundo com jornalismo profissional em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
